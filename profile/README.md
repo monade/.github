@@ -31,9 +31,10 @@ We also have a newborn tech blog! Take a look &#128064;
 
 Here are some of our repos:
 
-* [Active Queryable](https://github.com/monade/active-queryable)
-* [Cognito Rails](https://github.com/monade/active-queryable)
+* [Active Queryable](https://github.com/monade/active_queryable)
+* [Cognito Rails](https://github.com/monade/cognito_rails)
 * [Paramoid](https://github.com/monade/paramoid)
+* [acts_as_nosql](https://github.com/monade/acts_as_nosql)
 
 # Get in Touch
 
