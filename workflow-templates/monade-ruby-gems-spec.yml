@@ -1,7 +1,8 @@
-name: Tests
+name: Mònade Ruby gems Tests
 on:
   push:
   pull_request:
+  workflow_call:
   schedule:
     - cron: '0 0 1 * *'
 jobs:
